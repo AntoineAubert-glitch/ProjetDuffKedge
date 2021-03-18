@@ -1,0 +1,91 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.logoduff{
+  margin-left: -200px;
+  width: 20%;
+  height: 20%;
+}
+
+.my-jumbo{
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(image/bartduff.jpg);
+  height: 350px;
+  background-size: cover;
+}
+
+.btn_jumbo {
+  margin-top: 100px
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.duff-title {
+  font-size: 150px;
+  font-weight: bold;
+}
+
+.duff-text {
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.font-duff{
+  font-size: 55px;
+}
+
+.font-logo{
+  font-size: 100px;
+}
+
+.font-text {
+  font-size: 30px
+}
+
+.font-text2{
+  font-size: 20px;
+  text-align: left;
+}
+
+.temoi{
+  margin-top: 70px;
+
+}
+
+.font-prix {
+  font-size: 55px;
+  margin-top: 70px;
+  margin-bottom: 30px;
+}
+
+.size-prix {
+  font-size: 35px;
+}
+
+.size-des {
+  font-size: 15px;
+}
+
+.info {
+  border-color: #2196F3;
+  color: white
+}
+
+.footer {
+  
+  margin-top: 30px;
+}
+
+.mo {
+  color: grey;
+
+}
